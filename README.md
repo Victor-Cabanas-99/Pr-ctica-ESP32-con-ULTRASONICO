@@ -1,5 +1,16 @@
 # Practica-ESP32-con-ULTRASONICO
+## INTRODUCCION 
+### Descripcion 
 Se realizara una medición con un sensor ULTRASONICO donde se mostrara la distancia en una pantalla LCD 
+La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica ocuparemos un sensor (DTH11) con una pantalla LCD216 para adquirir datos de temperatura y humedad del entorno cada segundo y mostrarlar los datos en la panatlla, se usara un simulador llamado WOKWI.
+## MATERIAL A UTILIZAR
+- [WOKWI](https://wokwi.com/projects/new/esp32)
+- TARJET ESP32
+- SENSOR ULTRASONICO
+- LCD 16X2 2IC
+## INSTRUCCIONES
+Insertar el codigo dado de la practica, se realizara la misma actividad que la practica anterior mostrando datos de quien esta programando:
+
 
 ```
 const int Trigger = 4;   //Pin digital 2 para el Trigger del sensor
