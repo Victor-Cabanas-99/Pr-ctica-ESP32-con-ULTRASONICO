@@ -70,3 +70,9 @@ void loop()
   delay(2000); 
 }
 ```
+## Librerías
+
+1. **DHT sensor library for ESPx**
+2. **LiquidCrystal I2C**
+
+## Conexión
