@@ -70,11 +70,28 @@ void loop()
   delay(2000); 
 }
 ```
+2. Instalar la libreria de **LiquidCrystal I2C** como se muestra en la siguente imagen.
+
+![]()
+
+3. Hacer la conexion de **LCD 16X2 2IC** y la **HC-SR04 ULTRASONIC DISTANCE SENSOR** con la **ESP32** como se muestra en la siguente imagen.
+
+![]()
+
+### Instrucciónes de operación
+
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+3. Colocar la distancia *doble click* al sensor **HC-SR04 ULTRASONIC DISTANCE SENSOR**
+
+## Resultados
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+![](https://raw.githubusercontent.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-ULTRASONICO/99fc4e8dff26102aab4991604409f2408bbb974c/4.PNG)
+
 ## Librerías
 
-1. **DHT sensor library for ESPx**
-2. **LiquidCrystal I2C**
+1. **LiquidCrystal I2C**
 
-## Conexión
-![](https://raw.githubusercontent.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-ULTRASONICO/99fc4e8dff26102aab4991604409f2408bbb974c/4.PNG)
+
 
