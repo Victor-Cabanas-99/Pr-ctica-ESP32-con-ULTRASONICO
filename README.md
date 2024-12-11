@@ -72,7 +72,7 @@ void loop()
 ```
 2. Instalar la libreria de **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-ULTRASONICO/blob/main/ULTRASONICO%20LIBRERIA.PNG?raw=true)
 
 3. Hacer la conexion de **LCD 16X2 2IC** y la **HC-SR04 ULTRASONIC DISTANCE SENSOR** con la **ESP32** como se muestra en la siguente imagen.
 
