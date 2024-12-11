@@ -76,3 +76,5 @@ void loop()
 2. **LiquidCrystal I2C**
 
 ## Conexión
+![](https://raw.githubusercontent.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-ULTRASONICO/99fc4e8dff26102aab4991604409f2408bbb974c/4.PNG)
+
