@@ -87,7 +87,10 @@ void loop()
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-ULTRASONICO/blob/main/ULTRASONICO%20RESULTADO%201.PNG?raw=true)
 ![](https://raw.githubusercontent.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-ULTRASONICO/99fc4e8dff26102aab4991604409f2408bbb974c/4.PNG)
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-ULTRASONICO/blob/main/ULTRASONICO%20RESULTADO%203.PNG?raw=true)
 
 ## Librerías
 
